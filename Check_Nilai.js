@@ -2,10 +2,10 @@
 console.log("soal 2")
 
 let grade = [
-    {nama : "Siswa1" , nilai : "A"}, 
-    {nama : "Siswa2", nilai : "C"} , 
-    {nama : "Siswa3", nilai : "B"} , 
-    {nama : "Siswa4", nilai : "F"}
+    {nama : "Fhabil" , nilai : "A"}, 
+    {nama : "Gani", nilai : "C"} , 
+    {nama : "Mahansa", nilai : "B"} , 
+    {nama : "Dimas", nilai : "F"}
 ]
 
 function check_nilai(nilai){
