@@ -30,4 +30,4 @@ function Ganjil_Genap(platnomor) {
 
 let platnomor = ["B 1954 PZX", "B 1655 AUX", "F 1704 JYK"]
 
-platnomor.forEach(plat => console.log(`tanggal ${new Date().getDate()} plat dengan nomor ${plat} ${Ganjil_Genap(plat.split(''))}`))
+platnomor.forEach(plat => console.log(`hari ini tanggal ${new Date().getDate()}, kendaraan dengan plat nomor ${plat} ${Ganjil_Genap(plat.split(''))}`))
